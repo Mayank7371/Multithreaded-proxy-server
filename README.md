@@ -26,9 +26,6 @@ A high-performance HTTP/HTTPS proxy server implemented in C, supporting concurre
 ## Installation
 
 ```bash
-# Clone repository
-git clone https://github.com/yourusername/proxy-server.git
-cd proxy-server
 
 # Build project
 make all
